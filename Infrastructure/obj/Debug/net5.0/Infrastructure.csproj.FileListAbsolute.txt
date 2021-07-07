@@ -1,0 +1,12 @@
+C:\Projetos\MazzaFC\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Projetos\MazzaFC\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Projetos\MazzaFC\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Projetos\MazzaFC\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Projetos\MazzaFC\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
