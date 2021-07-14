@@ -1,4 +1,5 @@
 ﻿using Domain.Interfaces.InterfaceProduct;
+using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Services
 {
-    public class ServiceProduct : IserviceProduct
+    public class ServiceProduct : IServiceProduct
     {
 
         private readonly IProduct _IProduct;
