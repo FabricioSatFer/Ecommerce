@@ -11,10 +11,7 @@ namespace Entities.Notifications
     {
         public Notifies()
         {
-            Notificacoes = new List<Notifies>()
-            {
-
-            };
+            Notificacoes = new List<Notifies>();
         }
 
         [NotMapped]
@@ -48,7 +45,7 @@ namespace Entities.Notifications
                 Notificacoes.Add(new Notifies
                 {
                     Mensagem = "Valor deve ser maior que 0",
-                    NomePropriedade = NomePropriedade
+                    NomePropriedade = nomePropriedade
                 });
 
                 return false;
@@ -64,7 +61,7 @@ namespace Entities.Notifications
                 Notificacoes.Add(new Notifies
                 {
                     Mensagem = "Valor deve ser maior que 0",
-                    NomePropriedade = NomePropriedade
+                    NomePropriedade = nomePropriedade
                 });
 
                 return false;

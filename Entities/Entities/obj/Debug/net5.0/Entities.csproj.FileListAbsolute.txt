@@ -24,3 +24,4 @@ C:\Projetos\Ecommerce\Entities\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Projetos\Ecommerce\Entities\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
 C:\Projetos\Ecommerce\Entities\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
 C:\Projetos\Ecommerce\Entities\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+C:\Projetos\Ecommerce\Entities\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
